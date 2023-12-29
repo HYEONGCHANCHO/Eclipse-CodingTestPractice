@@ -15,7 +15,7 @@ public class CharSum {
 		        }
 		        System.out.println(sum);
 		        System.out.println(sum); //추가 내용 ja
-		    
+		        
 
 	}
 
